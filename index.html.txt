@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>test
+    <script language="JavaScript">
+    alert("This browser is \n"+navigator.userAgent);
+    </script></body>
+</html>
